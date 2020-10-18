@@ -23,3 +23,53 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color: #FF136F;
+    padding: 10px 30px;
+   
+
+}
+.cat2{
+
+    background-color: #dbdf0b;
+    padding: 10px 30px;
+    
+}
+.cat3{
+    background-color: #910bff;
+    padding: 10px 30px;
+    
+}
+
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+} 
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    
+}
+#subscribe{
+    height: 300px;
+
+
+}
+#subscribe h6{
+    color: gray;
+}
+.footer{
+    text-align: center;
+}
